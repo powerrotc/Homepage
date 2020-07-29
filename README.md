@@ -6,9 +6,6 @@ This is David Homepage.
 Comming Soon!!! 
 
 
-![그림1](https://user-images.githubusercontent.com/58272807/88864645-4be3ad80-d1cb-11ea-9c2d-3e7135987b03.png)
-
-
 MyongHwan (David) Ahn
 413-240 Fairhaven Road Phone : 431-588-1403
 Winnipeg, Manitoba R3P 0Z1 Email : powerrotc@gmail.com
@@ -42,3 +39,8 @@ Yonsei University, Seoul, South Korea
 Bachelor of Science Degree in Control and Instrumentation Engineering 1998
 Sungkyunkwan University, Seoul, South Korea
 REFERENCES AVAILABLE UPON REQUEST
+
+
+![그림1](https://user-images.githubusercontent.com/58272807/88864645-4be3ad80-d1cb-11ea-9c2d-3e7135987b03.png)
+
+
