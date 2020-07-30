@@ -21,7 +21,7 @@ Email : powerrotc@gmail.com
  1. Software Developer (Intern) Feb.2020 ~ Mar.2020 Cloud Genie, Winnipeg, Canada
     - Designed and coded front-end / back-end for Web application based on asp.net core C#  
     
- 2.Senior Software Developer Apr. 2004 – Apr. 2019 LIG Nex1(Changed name from LG Innotek to LIG Nex1), Seoul, South Korea  
+ 2. Senior Software Developer Apr. 2004 – Apr. 2019 LIG Nex1, Seoul, South Korea  
     - Planned, developed, tested, deployed and maintained for Military weapon application  
     - Analyzed requirement, designed software architecture for military system in according to V-model  
     - Provided effective troubleshooting and debugging for windows and Embedded software  
