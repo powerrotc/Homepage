@@ -3,7 +3,7 @@
 MyongHwan (David) Ahn  
 Phone : 431-588-1403  
 Email : powerrotc@gmail.com  
-[Linkedin](https://github.com/powerrotc/Homepage/issues/1#issue-668252688)
+[Linkedin](https://www.linkedin.com/in/MyongHwan-David)
 
 
 [PROFILE]
