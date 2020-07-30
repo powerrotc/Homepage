@@ -1,8 +1,8 @@
-# Homepage
+# Resume
 
-MyongHwan (David) Ahn
-Phone : 431-588-1403
-Email : powerrotc@gmail.com
+MyongHwan (David) Ahn  
+Phone : 431-588-1403  
+Email : powerrotc@gmail.com  
 
 PROFILE
 1. Software Specialist with 20 years’ experience for embedded and windows military application
